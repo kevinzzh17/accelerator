@@ -1,0 +1,788 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Tue Jul 23 14:55:14 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 35) to (Rev. 36)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Tue Jul 23 13:45:30 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 34) to (Rev. 35)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 18:14:10 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 33) to (Rev. 34)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 16:58:06 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 32) to (Rev. 33)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 15:42:34 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 31) to (Rev. 32)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 14:53:50 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 30) to (Rev. 31)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 13:37:13 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0 (Rev. 30)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 12:46:02 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0 (Rev. 30)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 12:04:52 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 29) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Jul 20 10:58:32 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 28) to (Rev. 29)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Fri Jul 19 21:20:53 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 27) to (Rev. 28)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Fri Jul 19 20:39:14 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 26) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Fri Jul 19 16:21:03 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 25) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Wed Jun 12 15:53:42 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 24) to (Rev. 25)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Wed Jun 12 15:10:34 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 23) to (Rev. 24)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Wed Jun 12 14:46:25 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0 (Rev. 23)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Wed Jun 12 14:17:13 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 21) to (Rev. 23)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Apr 20 20:38:50 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_1_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 20) to (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Apr 20 19:18:41 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 17) to (Rev. 20)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Apr  7 17:25:05 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 16) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Thu Mar 14 15:03:10 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 13) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Mon Feb  5 14:16:52 2024
+| Host         : ZhihaoZhang running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_Calculate_AXIS_v2_0_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_Calculate_AXIS_v2_0_0_0 (xilinx.com:user:Calculate_AXIS_v2_0:1.0) from (Rev. 3) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Wed Nov 15 11:19:05 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Mon Nov 13 18:46:30 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Mon Nov 13 17:01:49 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Nov 12 12:01:51 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 9) to (Rev. 10)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'base_AOD_Net_v1_1_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'm00_axis_tuser'
+
+-Upgrade has removed port 's00_axis_tuser'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Nov 12 11:53:05 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 7) to (Rev. 9)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'base_AOD_Net_v1_1_0_0'.
+
+
+-Upgrade has removed interface 'ap_clk'
+
+-Upgrade has removed interface 'ap_rst_n'
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'base_AOD_Net_v1_1_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'ap_clk'
+
+-Upgrade has removed port 'ap_rst_n'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov 11 23:05:37 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov 11 21:21:21 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov 11 21:08:39 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Fri Nov 10 22:33:43 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_v1_1_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_v1_1_0_0 (xilinx.com:user:AOD_Net_v1_1:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Nov  5 17:08:30 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_0_2 (xilinx.com:user:AOD_Net:1.1) from (Rev. 44) to (Rev. 45)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sun Nov  5 15:33:41 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_0_2 (xilinx.com:user:AOD_Net:1.1) from (Rev. 43) to (Rev. 44)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov  4 13:56:45 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of base_AOD_Net_0_2 (xilinx.com:user:AOD_Net:1.1 (Rev. 43)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov  4 13:26:09 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_0_2 (xilinx.com:user:AOD_Net:1.1) from (Rev. 41) to (Rev. 43)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
+| Date         : Sat Nov  4 11:43:51 2023
+| Host         : LAPTOP-HC05NL1J running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'base_AOD_Net_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of base_AOD_Net_0_2 (xilinx.com:user:AOD_Net:1.1) from (Rev. 40) to (Rev. 41)
+
