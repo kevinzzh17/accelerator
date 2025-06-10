@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../Video_base_test_cal_v1_0/Video_base_test_cal_v1_0.tmp/aod_net_v1_1_v1_0_project/AOD_Net_v1_1_v1_0_project.gen/sources_1/ip/RAM_c3_c4_l2/sim/RAM_c3_c4_l2.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

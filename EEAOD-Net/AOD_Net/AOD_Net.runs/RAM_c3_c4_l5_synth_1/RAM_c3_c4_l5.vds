@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Feb  8 22:51:54 2024
+# Process ID: 32032
+# Current directory: D:/20212/user/vivado/22.1/AOD_Net/AOD_Net.runs/RAM_c3_c4_l5_synth_1
+# Command line: vivado.exe -log RAM_c3_c4_l5.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RAM_c3_c4_l5.tcl
+# Log file: D:/20212/user/vivado/22.1/AOD_Net/AOD_Net.runs/RAM_c3_c4_l5_synth_1/RAM_c3_c4_l5.vds
+# Journal file: D:/20212/user/vivado/22.1/AOD_Net/AOD_Net.runs/RAM_c3_c4_l5_synth_1\vivado.jou
+# Running On: ZhihaoZhang, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 24, Host memory: 34158 MB
+#-----------------------------------------------------------
+source RAM_c3_c4_l5.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/20212/user/vivado/22.1/AOD_Net/AOD_Net.srcs'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado_22_1/Vivado/2022.1/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP RAM_c3_c4_l5, cache-ID = a68d358f6c384179.
+INFO: [Common 17-206] Exiting Vivado at Thu Feb  8 22:52:00 2024...

@@ -1,0 +1,230 @@
+case(cnt_b)
+	4'd0:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {doutb_l1,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {doutb_l2,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {doutb_l3,data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {doutb_l4,data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {doutb_l5,data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]};
+	end
+	4'd1:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[0] ,doutb_l1,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[5] ,doutb_l2,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[10],doutb_l3,data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[15],doutb_l4,data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[20],doutb_l5,data_o_b[22],data_o_b[23],data_o_b[24]};
+	end
+	4'd2:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[0] ,data_o_b[1] ,doutb_l1,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[5] ,data_o_b[6] ,doutb_l2,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[10],data_o_b[11],doutb_l3,data_o_b[13],data_o_b[14]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[15],data_o_b[16],doutb_l4,data_o_b[18],data_o_b[19]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[20],data_o_b[21],doutb_l5,data_o_b[23],data_o_b[24]};
+	end
+	4'd3:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,doutb_l1,data_o_b[4]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,doutb_l2,data_o_b[9]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[10],data_o_b[11],data_o_b[12],doutb_l3,data_o_b[14]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[15],data_o_b[16],data_o_b[17],doutb_l4,data_o_b[19]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[20],data_o_b[21],data_o_b[22],doutb_l5,data_o_b[24]};
+	end
+	4'd4:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,doutb_l1};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,doutb_l2};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],doutb_l3};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],doutb_l4};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],doutb_l5};
+	end
+	default:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= 120'd0;
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= 120'd0;
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= 120'd0;
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= 120'd0;
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= 120'd0;
+	end
+endcase
+
+
+case(cnt_b)
+	4'd0:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {doutb_l2,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {doutb_l3,data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {doutb_l4,data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {doutb_l5,data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {doutb_l1,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+	end
+	4'd1:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[5] ,doutb_l2,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[10],doutb_l3,data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[15],doutb_l4,data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[20],doutb_l5,data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[0] ,doutb_l1,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+	end
+	4'd2:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[5] ,data_o_b[6] ,doutb_l2,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[10],data_o_b[11],doutb_l3,data_o_b[13],data_o_b[14]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[15],data_o_b[16],doutb_l4,data_o_b[18],data_o_b[19]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[20],data_o_b[21],doutb_l5,data_o_b[23],data_o_b[24]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[0] ,data_o_b[1] ,doutb_l1,data_o_b[3] ,data_o_b[4]};
+	end
+	4'd3:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,doutb_l2,data_o_b[9]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[10],data_o_b[11],data_o_b[12],doutb_l3,data_o_b[14]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[15],data_o_b[16],data_o_b[17],doutb_l4,data_o_b[19]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[20],data_o_b[21],data_o_b[22],doutb_l5,data_o_b[24]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,doutb_l1,data_o_b[4]};
+	end
+	4'd4:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,doutb_l2};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],doutb_l3};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],doutb_l4};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],doutb_l5};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,doutb_l1};
+	end
+	default:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= 120'd0;
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= 120'd0;
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= 120'd0;
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= 120'd0;
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= 120'd0;
+	end
+endcase
+
+
+case(cnt_b)
+	4'd0:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {doutb_l3,data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {doutb_l4,data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {doutb_l5,data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {doutb_l1,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {doutb_l2,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+	end
+	4'd1:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[10],doutb_l3,data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[15],doutb_l4,data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[20],doutb_l5,data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[0] ,doutb_l1,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[5] ,doutb_l2,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+	end
+	4'd2:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[10],data_o_b[11],doutb_l3,data_o_b[13],data_o_b[14]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[15],data_o_b[16],doutb_l4,data_o_b[18],data_o_b[19]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[20],data_o_b[21],doutb_l5,data_o_b[23],data_o_b[24]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[0] ,data_o_b[1] ,doutb_l1,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[5] ,data_o_b[6] ,doutb_l2,data_o_b[8] ,data_o_b[9]};
+	end
+	4'd3:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[10],data_o_b[11],data_o_b[12],doutb_l3,data_o_b[14]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[15],data_o_b[16],data_o_b[17],doutb_l4,data_o_b[19]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[20],data_o_b[21],data_o_b[22],doutb_l5,data_o_b[24]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,doutb_l1,data_o_b[4]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,doutb_l2,data_o_b[9]};
+	end
+	4'd4:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],doutb_l3};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],doutb_l4};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],doutb_l5};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,doutb_l1};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,doutb_l2};
+	end
+	default:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= 120'd0;
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= 120'd0;
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= 120'd0;
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= 120'd0;
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= 120'd0;
+	end
+endcase
+
+
+case(cnt_b)
+	4'd0:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {doutb_l4,data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {doutb_l5,data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {doutb_l1,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {doutb_l2,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {doutb_l3,data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]};
+	end
+	4'd1:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[15],doutb_l4,data_o_b[17],data_o_b[18],data_o_b[19]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[20],doutb_l5,data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[0] ,doutb_l1,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[5] ,doutb_l2,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[10],doutb_l3,data_o_b[12],data_o_b[13],data_o_b[14]};
+	end
+	4'd2:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[15],data_o_b[16],doutb_l4,data_o_b[18],data_o_b[19]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[20],data_o_b[21],doutb_l5,data_o_b[23],data_o_b[24]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[0] ,data_o_b[1] ,doutb_l1,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[5] ,data_o_b[6] ,doutb_l2,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[10],data_o_b[11],doutb_l3,data_o_b[13],data_o_b[14]};
+	end
+	4'd3:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[15],data_o_b[16],data_o_b[17],doutb_l4,data_o_b[19]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[20],data_o_b[21],data_o_b[22],doutb_l5,data_o_b[24]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,doutb_l1,data_o_b[4]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,doutb_l2,data_o_b[9]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[10],data_o_b[11],data_o_b[12],doutb_l3,data_o_b[14]};
+	end
+	4'd4:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],doutb_l4};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],doutb_l5};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,doutb_l1};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,doutb_l2};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],doutb_l3};
+	end
+	default:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= 120'd0;
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= 120'd0;
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= 120'd0;
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= 120'd0;
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= 120'd0;
+	end
+endcase
+
+
+case(cnt_b)
+	4'd0:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {doutb_l5,data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {doutb_l1,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {doutb_l2,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {doutb_l3,data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {doutb_l4,data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]};
+	end
+	4'd1:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[20],doutb_l5,data_o_b[22],data_o_b[23],data_o_b[24]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[0] ,doutb_l1,data_o_b[2] ,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[5] ,doutb_l2,data_o_b[7] ,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[10],doutb_l3,data_o_b[12],data_o_b[13],data_o_b[14]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[15],doutb_l4,data_o_b[17],data_o_b[18],data_o_b[19]};
+	end
+	4'd2:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[20],data_o_b[21],doutb_l5,data_o_b[23],data_o_b[24]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[0] ,data_o_b[1] ,doutb_l1,data_o_b[3] ,data_o_b[4]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[5] ,data_o_b[6] ,doutb_l2,data_o_b[8] ,data_o_b[9]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[10],data_o_b[11],doutb_l3,data_o_b[13],data_o_b[14]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[15],data_o_b[16],doutb_l4,data_o_b[18],data_o_b[19]};
+	end
+	4'd3:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[20],data_o_b[21],data_o_b[22],doutb_l5,data_o_b[24]};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,doutb_l1,data_o_b[4]};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,doutb_l2,data_o_b[9]};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[10],data_o_b[11],data_o_b[12],doutb_l3,data_o_b[14]};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[15],data_o_b[16],data_o_b[17],doutb_l4,data_o_b[19]};
+	end
+	4'd4:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= {data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],doutb_l5};
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= {data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,doutb_l1};
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= {data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,doutb_l2};
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= {data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],doutb_l3};
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= {data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],doutb_l4};
+	end
+	default:begin
+		{data_o_b[0] ,data_o_b[1] ,data_o_b[2] ,data_o_b[3] ,data_o_b[4] } <= 120'd0;
+		{data_o_b[5] ,data_o_b[6] ,data_o_b[7] ,data_o_b[8] ,data_o_b[9] } <= 120'd0;
+		{data_o_b[10],data_o_b[11],data_o_b[12],data_o_b[13],data_o_b[14]} <= 120'd0;
+		{data_o_b[15],data_o_b[16],data_o_b[17],data_o_b[18],data_o_b[19]} <= 120'd0;
+		{data_o_b[20],data_o_b[21],data_o_b[22],data_o_b[23],data_o_b[24]} <= 120'd0;
+	end
+endcase
+
+

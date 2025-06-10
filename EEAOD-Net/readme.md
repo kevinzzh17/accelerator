@@ -1,0 +1,4 @@
+AOD_Net文件是本文设计的AOD-Net加速器IP，可进行修改。他需要被添加在所构建的SoC中，不然无法使用。
+Video_base_test_v2.0_success (2)是测试版本的去雾系统，较为完善，使用需要将Video_base_test_v2.0_success\Video_base_v2.0.gen\sources_1\bd\base\hw_handoff文件夹下的base.hwh和Video_base_test_v2.0_success\Video_base_v2.0.runs\impl_1文件夹下的base_wrapper.bit和base_wrapper.tcl放入jupyter中，并将其重命名为相同前缀，如base_wrapper.hwh，base_wrapper.bit，base_wrapper.tcl
+PYNQ-master是PYNQ官方的IP架构，在Vivado中需要将其添入IP中，不然无法引用。该文件可去GitHub的PYNQ官方那边下载22.1版本的官方IP文件。
+jupyter中存放着640*480版本的bit流和相关文件，用于PYNQ上版测试
